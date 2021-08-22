@@ -80,3 +80,6 @@
   ## Versao Mobile 
    ![Alt text]( store/assets/screenshots/organizacao-celular.png "Versao Mobile")
 
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+
+<img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUÍDO&color=7159c1&style=for-the-badge&logo=ghost"/>
