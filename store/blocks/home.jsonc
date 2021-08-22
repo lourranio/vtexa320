@@ -3,7 +3,7 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row#menu",
+      "flex-layout.row#menu", // Menu
       "flex-layout.row#bannerAfterHeader",
       "flex-layout.row#banner-principal",
       "flex-layout.row#carrosellHomepromocao", // Categorias - Carrossel icones HomePage

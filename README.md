@@ -73,3 +73,10 @@
  # SCREENSHOT 
  ## Preview da Loja
  ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
+
+ ## Organização
+  ![Alt text]( store/assets/screenshots/organizacao.png?raw=true "Site e Codigo")
+
+  ## Versao Mobile 
+   ![Alt text]( store/assets/screenshots/organizacao-celular.png "Versao Mobile")
+
