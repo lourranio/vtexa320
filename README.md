@@ -2,6 +2,8 @@
 
 ## Descrição : Você foi contratado para desenvolver o ecommerce.
 
+![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
+
 ### Funcionalidades
 
 - [x] Template de criação
