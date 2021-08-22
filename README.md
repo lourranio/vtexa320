@@ -2,10 +2,10 @@
 
 ## Descrição : Você foi contratado para desenvolver o ecommerce.
 
-### Features
+### Funcionalidades
 
 - [x] Template de criação
-        ● Criar a solução a partir de um boiler template padrão da Vtex IO
+        [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
 - [x] Layout
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
@@ -44,6 +44,28 @@
                 https://vtex.io/docs/components/all/vtex.store-components@3.150.0/
             ○
             ○ API whatsapp - https://www.convertte.com.br/gerador-link-whatsapp/
+
+- [ ] Layout Mobile
+    Criar um componente customizado para cadastrar leads (possíveis clientes prospectos)
+        ○ Nome
+        ○ Email
+        ○ Telefone
+
+        ○ Este componente pode servir de isca digital, fazendo dando umaboniﬁcação para o prospecto que preencher as informações da lead.Utilizar o Vtex Componentes com React para criar o componente https://vtex.io/docs/components/all/vtex.store-components@3.150.0/
+
+
+- [ ] AWS API Gateway
+        ● Com o objetivo de armazenar as leads que o Vtex componente irá utilizar no
+    React, criar uma API Gateway na AWS para colocar as informações -
+    https://aws.amazon.com/pt/api-gateway/
+        ● Um exemplo de arquivo API Gateway para estudo:
+        ● https://github.com/awslabs/aws-api-gateway-developer-portal/blob/master/cloudformation/template.yaml
+        ● https://github.com/mattpodolak/email-api-lambda
+        ● https://github.com/amazon-archives/realworld-serverless-application/blob/master/backend/sam/app/api.template.yaml   
+
+
+- [ ] Opcional
+        ● Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS - Conteúdo vídeo 9 do curso
 
 - [x] Template de criação
  
