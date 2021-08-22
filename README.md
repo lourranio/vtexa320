@@ -2,7 +2,7 @@
 
 ## Descrição : Você foi contratado para desenvolver o ecommerce.
 
-![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
+
 
 ### Funcionalidades
 
@@ -10,13 +10,6 @@
         [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
         RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
-
-        [img]https://i.imgur.com/8t7Y5Qf.png[/img]
-        
-        ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
-
-   
-
 
 - [x] Layout
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
@@ -80,3 +73,6 @@
 
 - [x] Template de criação
  
+ # SCREENSHOT 
+ ## Preview da Loja
+ ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
