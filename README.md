@@ -10,6 +10,8 @@
         RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
 
         [img]https://i.imgur.com/8t7Y5Qf.png[/img]
+        
+        ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
 
    
 
