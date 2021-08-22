@@ -8,24 +8,10 @@
         [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
         RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
-        
-        <h1 align="center">
-            <img alt="Next" title="#Next" src="./assets/screenshots/preview-site.PNG" />
-        </h1>
-
-        <h1 align="center">
-            <img alt="Next" title="#Next" src="https://github.com/osbornelive/vtexa320/blob/main/store/assets/screenshots/preview-site.PNG" />
-        </h1>
-
-        ![osbornelive](https://github.com/osbornelive/vtexa320/blob/main/store/assets/screenshots/preview-site.PNG)
-
-        https://imgur.com/8t7Y5Qf
-
-        <blockquote class="imgur-embed-pub" lang="en" data-id="8t7Y5Qf"><a href="https://imgur.com/8t7Y5Qf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
         [img]https://i.imgur.com/8t7Y5Qf.png[/img]
 
-        [Imgur](https://imgur.com/8t7Y5Qf)
+   
 
 
 - [x] Layout
