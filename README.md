@@ -57,6 +57,8 @@
             ○
             ○ API whatsapp - https://www.convertte.com.br/gerador-link-whatsapp/
 
+### Requisito 4
+<img src="https://img.shields.io/static/v1?label=Layout Mobile&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
 [ ] Layout Mobile
     Criar um componente customizado para cadastrar leads (possíveis clientes prospectos)
         ○ Nome
@@ -66,7 +68,10 @@
         ○ Este componente pode servir de isca digital, fazendo dando umaboniﬁcação para o prospecto que preencher as informações da lead.Utilizar o Vtex Componentes com React para criar o componente https://vtex.io/docs/components/all/vtex.store-components@3.150.0/
 
 
-- [ ] AWS API Gateway
+### Requisito 5
+<img src="https://img.shields.io/static/v1?label=API-AWS&message=em-desenvolvimento&color=FF0000&style=for-the-badge&logo=ghost"/>
+
+[ ] AWS API Gateway
         ● Com o objetivo de armazenar as leads que o Vtex componente irá utilizar no
     React, criar uma API Gateway na AWS para colocar as informações -
     https://aws.amazon.com/pt/api-gateway/
@@ -75,8 +80,9 @@
         ● https://github.com/mattpodolak/email-api-lambda
         ● https://github.com/amazon-archives/realworld-serverless-application/blob/master/backend/sam/app/api.template.yaml   
 
-
-- [ ] Opcional
+### Requisito 6
+<img src="https://img.shields.io/static/v1?label=API-AWS&message=em-desenvolvimento&color=FF0000&style=for-the-badge&logo=ghost"/>
+[ ] Opcional
         ● Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS - Conteúdo vídeo 9 do curso
 
  
