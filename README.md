@@ -7,6 +7,11 @@
 - [x] Template de criação
         [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
+        RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
+        <h1 align="center">
+            <img alt="Next" title="#Next" src="./assets/screenshots/preview-site.PNG" />
+        </h1>
+
 - [x] Layout
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
         
