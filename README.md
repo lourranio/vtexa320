@@ -4,13 +4,20 @@
 
 ### Funcionalidades
 
-<img src="https://img.shields.io/static/v1?label=Template de criação&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/> - [x] Template de criação 
+### Requisito 1
+<img src="https://img.shields.io/static/v1?label=Template de criação&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/> 
+
+[x] Template de criação 
 
         [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
         RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
 
-- [x] Layout <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+
+### Requisito 2
+<img src="https://img.shields.io/static/v1?label=Layout&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/> 
+
+[x] Layout <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
         
         ● Utilizar o Markdown + o css para formatação -
@@ -37,8 +44,10 @@
         ● Ao clicar no produto ir para tela com Product Summary
             https://vtex.io/docs/components/all/vtex.product-summary@2.53.0/
 
-<img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
-- [x] Layout Mobile 
+
+### Requisito 3
+<img src="https://img.shields.io/static/v1?label=Layout Mobile&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+[x] Layout Mobile 
         https://vtex.io/docs/components/all/vtex.ﬂex-layout@0.17.0/
         Dar prioridade as páginas criada nos arquivos.jsonc colocando comentários dos blocos criados
 
@@ -48,7 +57,7 @@
             ○
             ○ API whatsapp - https://www.convertte.com.br/gerador-link-whatsapp/
 
-- [ ] Layout Mobile
+[ ] Layout Mobile
     Criar um componente customizado para cadastrar leads (possíveis clientes prospectos)
         ○ Nome
         ○ Email
