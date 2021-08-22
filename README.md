@@ -4,7 +4,8 @@
 
 ### Funcionalidades
 
-- [x] Template de criação <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Template de criação&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/> - [x] Template de criação 
+
         [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
         RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
