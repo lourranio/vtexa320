@@ -5,25 +5,13 @@
     "blocks": [
       "flex-layout.row#menu",
       "flex-layout.row#bannerAfterHeader",
-      //"flex-layout.row#bannerCarrosselHome",
-      //"product-separator",
-      //"list-context.image-list#banner-principal",
       "flex-layout.row#banner-principal",
       "flex-layout.row#carrosellHomepromocao", // Categorias - Carrossel icones HomePage
       "rich-text#tituloHomePromocao", // Produtos em Destaque
       "flex-layout.row#shelf", // Lista de Produtos
-      //"flex-layout.row#gridProdutoHome",
-      //"flex-layout.row#paginaProduto",
-      //"flex-layout.row#main",
       "__fold__.experimentalLazyAssets", // Aula Vtex
       "rich-text#titulo-categoria",
       "tab-layout#categoriaHome",
-      //"slider-layout#homeProduto1",
-      //"tab-layout#home,
-      //"flex-layout.row#p1",
-      /*       "flex-layout.row#bannerPrincipal",
-     
-      "list-context.image-list#demo", */
       "rich-text#newsletter-pergunta",
       "flex-layout.row#newsletter-form",
       //"newsletter-form",
