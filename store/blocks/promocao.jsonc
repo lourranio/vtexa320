@@ -1,0 +1,101 @@
+// Sao as categorias
+{
+  "flex-layout.row#carrosellHomepromocao": {
+    "props": {
+      "marginTop": 5
+    },
+    "children": [
+      "flex-layout.row#carousel-home-icones"
+    ]
+  },
+  "flex-layout.row#carousel-home-icones": {
+    "props": {
+      // "marginTop": 5,
+      //"background-color": "#a7afbd", // Nao funciona ?
+      //"padding": "14px 0px",
+      "blockClass": "deals"
+    },
+    "children": [
+      "flex-layout.col#icone1",
+      "flex-layout.col#icone1",
+      "flex-layout.col#icone1",
+      "flex-layout.col#icone1",
+      "flex-layout.col#icone1"
+      /* "flex-layout.col#deals2",
+      "flex-layout.col#deals3",
+      "flex-layout.col#deals4" */
+    ]
+  },
+  "flex-layout.col#icone1": {
+    "children": [
+      "image#icone1",
+      "rich-text#icone1"
+    ]
+  },
+  "image#icone1": {
+    "props": {
+      "src": "https://i.imgur.com/7t9OLCh.png",
+      "maxHeight": "24px"
+    }
+  },
+  "rich-text#icone1": {
+    "props": {
+      "text": "Frete Gratis",
+      "blockClass": "deals"
+    }
+  },
+  "flex-layout.col#deals2": {
+    "children": [
+      "image#deal2",
+      "rich-text#deal2"
+    ]
+  },
+  "image#deal2": {
+    "props": {
+      "src": "https://storecomponents.vteximg.com.br/arquivos/delivery-fast.png",
+      "maxHeight": "24px"
+    }
+  },
+  "rich-text#deal2": {
+    "props": {
+      "text": "texto",
+      "blockClass": "deals"
+    }
+  },
+  "flex-layout.col#deals3": {
+    "children": [
+      "image#deal3",
+      "rich-text#deal3"
+    ]
+  },
+  "image#deal3": {
+    "props": {
+      "src": "https://storecomponents.vteximg.com.br/arquivos/store.png",
+      "maxHeight": "24px"
+    }
+  },
+  "rich-text#deal3": {
+    "props": {
+      "text": "texto",
+      "blockClass": "deals"
+    }
+  },
+  "flex-layout.col#deals4": {
+    "children": [
+      "image#deal4",
+      "rich-text#deal4"
+    ]
+  },
+  "image#deal4": {
+    "props": {
+      "src": "https://storecomponents.vteximg.com.br/arquivos/coupon.png",
+      "maxHeight": "24px"
+    }
+  },
+  "rich-text#deal4": {
+    "props": {
+      "text": "texto",
+      "blockClass": "deals"
+    }
+  }
+}

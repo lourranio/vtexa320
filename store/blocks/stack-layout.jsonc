@@ -1,0 +1,13 @@
+// stack-layout.jsonc  Nao entendo.
+{
+    "stack-layout": {
+        "children": [
+            "image#brand11"
+        ]
+    },
+    "image#brand11": {
+        "props": {
+            "src": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/1627336500-01.png"
+        }
+    }
+}
