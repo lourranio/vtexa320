@@ -4,12 +4,12 @@
 
 ### Funcionalidades
 
-- [x] Template de criação
+- [x] Template de criação <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
         [x] ● Criar a solução a partir de um boiler template padrão da Vtex IO
 
         RESPOSTA: foi usado o : git clone https://github.com/vtex-apps/minimum-boilerplate-theme.git
 
-- [x] Layout
+- [x] Layout <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
         
         ● Utilizar o Markdown + o css para formatação -
@@ -36,8 +36,8 @@
         ● Ao clicar no produto ir para tela com Product Summary
             https://vtex.io/docs/components/all/vtex.product-summary@2.53.0/
 
-
-- [x] Layout Mobile
+<img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+- [x] Layout Mobile 
         https://vtex.io/docs/components/all/vtex.ﬂex-layout@0.17.0/
         Dar prioridade as páginas criada nos arquivos.jsonc colocando comentários dos blocos criados
 
@@ -83,3 +83,5 @@
 <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=vtex&message=em-desenvolvimento&color=FF0000&style=for-the-badge&logo=ghost"/>    
+
