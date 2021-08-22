@@ -17,7 +17,7 @@
 ### Requisito 2
 <img src="https://img.shields.io/static/v1?label=Layout&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/> 
 
-[x] Layout <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+[x] Layout 
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
         
         ● Utilizar o Markdown + o css para formatação -
@@ -96,8 +96,10 @@
   ## Versao Mobile 
    ![Alt text]( store/assets/screenshots/organizacao-celular.png "Versao Mobile")
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
+
+
+LEGENDAS
 <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=vtex&message=em-desenvolvimento&color=FF0000&style=for-the-badge&logo=ghost"/>    
 
