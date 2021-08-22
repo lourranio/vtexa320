@@ -12,6 +12,9 @@
             <img alt="Next" title="#Next" src="./assets/screenshots/preview-site.PNG" />
         </h1>
 
+        ![osbornelive](https://github.com/osbornelive/vtexa320/blob/main/store/assets/screenshots/preview-site.PNG)
+
+
 - [x] Layout
         ● Observação - A réplica não precisa ser uma cópia ﬁel deste layout mas tentar se aproximar o máximo que conseguir
         
