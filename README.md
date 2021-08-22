@@ -2,8 +2,6 @@
 
 ## Descrição : Você foi contratado para desenvolver o ecommerce.
 
-
-
 ### Funcionalidades
 
 - [x] Template de criação
@@ -39,7 +37,7 @@
             https://vtex.io/docs/components/all/vtex.product-summary@2.53.0/
 
 
-- [ ] Layout Mobile
+- [x] Layout Mobile
         https://vtex.io/docs/components/all/vtex.ﬂex-layout@0.17.0/
         Dar prioridade as páginas criada nos arquivos.jsonc colocando comentários dos blocos criados
 
@@ -71,7 +69,6 @@
 - [ ] Opcional
         ● Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS - Conteúdo vídeo 9 do curso
 
-- [x] Template de criação
  
  # SCREENSHOT 
  ## Preview da Loja
