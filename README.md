@@ -86,7 +86,7 @@
         ● Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS - Conteúdo vídeo 9 do curso
 
  
-# SCREENSHOT 
+# SCREENSHOT  > https://github.com/osbornelive/vtexa320/tree/main/store/assets/screenshots
 ## Preview da Loja
  ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
 
