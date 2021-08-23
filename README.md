@@ -86,18 +86,24 @@
         ● Criar um item no adm do vtex para trazer o conteúdo das leads cadastradas na API Gateway AWS - Conteúdo vídeo 9 do curso
 
  
- # SCREENSHOT 
- ## Preview da Loja
+# SCREENSHOT 
+## Preview da Loja
  ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
 
- ## Organização
+## Organização
   ![Alt text]( store/assets/screenshots/organizacao.png?raw=true "Site e Codigo")
 
-  ## Versao Mobile 
+## Versao Mobile 
    ![Alt text]( store/assets/screenshots/organizacao-celular.png "Versao Mobile")
 
+ ## MINICARD
+ ![Alt text]( store/assets/screenshots/minicard.png "Mini Card")
 
 
+# EXPLICANDO OS REQUISITOS
+
+### Requisito 1
+### Requisito 2
 
 LEGENDAS
 <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
