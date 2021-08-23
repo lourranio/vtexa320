@@ -90,7 +90,7 @@
 ## Preview da Loja
  ![Alt text](store/assets/screenshots/preview-site.PNG?raw=true "Optional Title")
 
-## Organização
+## Organização = Flex Layout + css + Slider layout + Tab Layout + lista de produtos
   ![Alt text]( store/assets/screenshots/organizacao.png?raw=true "Site e Codigo")
 
 ## Versao Mobile 
@@ -103,12 +103,11 @@
  ![Alt text]( store/assets/screenshots/product-sumary.PNG "Product Sumary")
 
 
-# EXPLICANDO OS REQUISITOS
 
-### Requisito 1
-### Requisito 2
 
 LEGENDAS
+
 <img src="https://img.shields.io/static/v1?label=vtex&message=CONCLUIDO&color=39FF14c1&style=for-the-badge&logo=ghost"/>
+
 <img src="https://img.shields.io/static/v1?label=vtex&message=em-desenvolvimento&color=FF0000&style=for-the-badge&logo=ghost"/>    
 
