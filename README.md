@@ -99,6 +99,9 @@
  ## MINICARD
  ![Alt text]( store/assets/screenshots/minicard.png "Mini Card")
 
+  ## Product Sumary
+ ![Alt text]( store/assets/screenshots/product-sumary.PNG "Product Sumary")
+
 
 # EXPLICANDO OS REQUISITOS
 
